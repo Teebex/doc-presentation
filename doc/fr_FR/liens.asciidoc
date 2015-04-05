@@ -1,0 +1,2 @@
+Voici le lien du premier tutoriel pour avoir une idée de ce que les écrans donnent "en vrai" au démarrage de votre Jeedom.
+https://www.youtube.com/watch?v=UTECRBGEUtI[Premier tuto]
