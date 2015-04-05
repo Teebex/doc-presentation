@@ -1,6 +1,6 @@
 Jeedom est composé d'un core qui se charge des fonctions de bases :
 
-** _scénario,_
+_'- scénario,_
 
 image::../images/doc-presentation-scenario.png[Page Scénario]
 
