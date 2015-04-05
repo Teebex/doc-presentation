@@ -2,7 +2,7 @@ Plusieurs tutoriels ont été réalisés afin de montrer les fonctionnalités de
 
 Voici la liste des tutoriels disponibles :
 |===
-|*Video* |*Lien*
+|*Video* ||*Lien*
 
 |Tuto Jeedom #1 : Premier démarrage | |https://www.youtube.com/watch?v=UTECRBGEUtI
 
