@@ -6,17 +6,17 @@ D'autres tutoriels sont également disponibles :
 |===
 |*Video* |*Title* |*Comment*
 
-|image::../images/lien-tuto1.png[Lien tuto n°1]
+|image::../images/doc-presentation-lien-tuto1.png[Lien tuto n°1]
 |Tuto Jeedom #1 : Premier démarrage
 |https://www.youtube.com/watch?v=UTECRBGEUtI
 
-|image::../images/lien-tuto1.png[Lien tuto n°1]
+|image::../images/doc-presentation-lien-tuto1.png[Lien tuto n°1]
 https://www.youtube.com/watch?v=UTECRBGEUtI
 |Tuto Jeedom #1 : Premier démarrage
 |https://www.youtube.com/watch?v=UTECRBGEUtI
 
 |https://www.youtube.com/watch?v=UTECRBGEUtI
-image::../images/lien-tuto1.png[Lien tuto n°1]
+image::../images/doc-presentation-lien-tuto1.png[Lien tuto n°1]
 |Tuto Jeedom #1 : Premier démarrage
 |https://www.youtube.com/watch?v=UTECRBGEUtI
 |===
