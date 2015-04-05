@@ -1,0 +1,19 @@
+Jeedom est composé d'un core qui se charge des fonctions de bases : 
+- scénario,
+- historisation,
+- affichage,
+- interaction,
+- mise à jour et sauvegarde.
+
+Autour de ce core viennent se greffer des plugins qui peuvent être de toute sorte :
+- protocole domotique (Z-Wave, RFXcom, EnOcean...),
+- protocole IP (KNX,xPL...),
+- objet communiquant (Nest, Netatmo...),
+- haut niveau (alarme, thermostat...),
+- interface (widget),
+- organisation (agenda, Google agenda),
+- développement (script).
+
+Ces plugins peuvent être récuperés via market et permettent d'étendre les possibilités de Jeedom.
+
+Jeedom permet à n'importe quel plugin de discuter avec un autre sur une base normalisée. Cela permet par exemple d'utiliser les plugins thermostat ou alarme avec n'importe quel protocole domotique ou même un plugin IP ou objet communiquant...
