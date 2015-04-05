@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=UTECRBGEUtI[Premier tuto]
 D'autres tutoriels sont également disponibles :
 [cols="5,3,3"]
 |===
-|Video |Title |Comment
+|*Video* |*Title* |*Comment*
 
 |image::../images/lien-tuto1.png[Lien tuto n°1]
 |Tuto Jeedom #1 : Premier démarrage
