@@ -36,5 +36,5 @@ Autour de ce core viennent se greffer des plugins qui peuvent être de toute sor
 Ces plugins peuvent être récuperés via market et permettent d'étendre les possibilités de Jeedom.
 
 image::../images/doc-presentation-market.png[Page Market]
-
++
 Jeedom permet à n'importe quel plugin de discuter avec un autre sur une base normalisée. Cela permet par exemple d'utiliser les plugins thermostat ou alarme avec n'importe quel protocole domotique ou même un plugin IP ou objet communiquant...
