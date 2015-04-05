@@ -1,4 +1,5 @@
-Jeedom est composé d'un core qui se charge des fonctions de bases : 
+Jeedom est composé d'un core qui se charge des fonctions de bases :
+
 - scénario,
 - historisation,
 - affichage,
@@ -6,6 +7,7 @@ Jeedom est composé d'un core qui se charge des fonctions de bases :
 - mise à jour et sauvegarde.
 
 Autour de ce core viennent se greffer des plugins qui peuvent être de toute sorte :
+
 - protocole domotique (Z-Wave, RFXcom, EnOcean...),
 - protocole IP (KNX,xPL...),
 - objet communiquant (Nest, Netatmo...),
