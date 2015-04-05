@@ -2,7 +2,7 @@ Voici le lien du premier tutoriel pour avoir une idée de ce que les écrans don
 https://www.youtube.com/watch?v=UTECRBGEUtI[Premier tuto]
 
 D'autres tutoriels sont également disponibles :
-[cols="5,3,3"]
+[cols="5,1,3"]
 |===
 |*Video* |*Title* |*Comment*
 
