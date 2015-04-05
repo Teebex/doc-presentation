@@ -1,11 +1,11 @@
-== Fonctions de base du core
+=== Fonctions de base du core
 Jeedom est composé d'un core qui se charge des fonctions de bases.
 
-=== Scénario
+.Scénario
 
 image::../images/doc-presentation-scenario.png[Page Scénario]
 
-** _historisation_,
+.Historisation
 
 image::../images/doc-presentation-historique.png[Page Historique]
 
