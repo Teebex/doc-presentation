@@ -1,4 +1,4 @@
-Plusieurs tutoriels ont été réalisés afin de montrer les fonctionnalités de importantes de Jeedom, pour faciliter son utilisation et la familiarisation avec le logiciel.
+Plusieurs tutoriels vidéo ont été réalisés afin de montrer les fonctionnalités importantes de Jeedom, faciliter son utilisation et familiariser l'utilisateur avec le logiciel.
 
 Voici la liste des tutoriels disponibles :
 
